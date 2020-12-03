@@ -37,6 +37,9 @@
     background-image: linear-gradient(0deg, dodgerblue, white 100%);
     
 }
+.button:hover {
+    font-family: serif;
+}
 .subpost { 
     color: midnightblue;
     margin: 15px;
